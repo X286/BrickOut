@@ -1,14 +1,8 @@
-# BrickOut
-BrickOut Clone
+# BrickOut Clone
 
-Brick out game in pygame.
+BrickOut writed on python whith use pygame.
 
-install from pip:
-random
-math
-ConfigParser
-pygame
-PIL 
+install from pip: random, math, ConfigParser, pygame, PIL 
 
 run:
 python __init__.py
