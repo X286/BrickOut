@@ -1,0 +1,22 @@
+textures: SpriteBuild.png
+1000pointz.png	0	0	40	20	0	0	40	20	
+biggerBall.png	41	0	40	20	0	0	40	20	
+Brick5.png	82	0	40	20	0	0	40	20	
+Brick2.png	0	21	40	20	0	0	40	20	
+Brick10.png	41	21	40	20	0	0	40	20	
+bigsizepaddle.png	82	21	40	20	0	0	40	20	
+Brick1.png	0	42	40	20	0	0	40	20	
+addball.png	41	42	40	20	0	0	40	20	
+Brick7.png	82	42	40	20	0	0	40	20	
+Brick3.png	0	63	40	20	0	0	40	20	
+Brick4.png	41	63	40	20	0	0	40	20	
+smallerball.png	82	63	40	20	0	0	40	20	
+Brick6.png	0	84	40	20	0	0	40	20	
+Brick8.png	41	84	40	20	0	0	40	20	
+smallpaddle.png	82	84	40	20	0	0	40	20	
+Brick9.png	0	105	40	20	0	0	40	20	
+corner.png	41	105	20	20	0	0	20	20	
+left_rightWall.png	62	105	10	20	0	0	10	20	
+paddle.png	0	126	80	19	0	1	80	20	
+Ball.png	81	105	14	14	0	0	14	14	
+topwall.png	96	105	20	10	0	0	20	10	
